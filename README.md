@@ -13,7 +13,7 @@ A golden-toned, beautiful and clean color theme for Xcode.
 ### Convenient way
 1. Type the following commands in your `Terminal`
      ```
-    $ git clone https://github.com/benediktreichert/treasurechest.git
+    $ git clone https://github.com/benediktreichert/Treasurechest-Xcode-Color-Theme.git
     $ cd treasurechest/
     $ mkdir -p ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
     $ cp Treasurechest.xccolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
