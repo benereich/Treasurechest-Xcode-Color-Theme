@@ -1,12 +1,11 @@
 # Treasurechest Xcode color theme
-A golden-toned, beautiful and clean color theme for Xcode.
+A golden-toned, beautiful and clean color theme for Xcode. For best viewing experience, use `SF Mono` font with different widths such as Bold and Bold Italic.
 
 ## Screenshots
-### Swift
 ![Screenshot 1](/../screenshots/screen_1.png?raw=true "Screenshot")
-### C/C++
+
 ![Screenshot 2](/../screenshots/screen_2.png?raw=true "Screenshot")
-### Colors
+
 ![Screenshot 3](/../screenshots/screen_3.png?raw=true "Screenshot")
 
 ## Installation
